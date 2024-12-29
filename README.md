@@ -8,11 +8,15 @@ Nebula Escape: A Drone adventure
 
 Table of Contents:
 
-Game Overview
-Features
-Installation
-Controls
-Credits 
+1.Game Overview
+
+2.Features
+
+3.Installation
+
+4.Controls
+
+5.Credits 
 
 
 
@@ -22,28 +26,39 @@ In this game, you control a drone and navigate through a variety of challenges s
 
 Features:
 
-Dynamic Weather
-Enemy system
-Health Recovery
-Score 
-System Timer
-Bullet Firing
-Increasing Difficulty
+1.Dynamic Weather
+
+2.Enemy system
+
+3.Health Recovery
+
+4.Score 
+
+5.System Timer
+
+6.Bullet Firing
+
+7.Increasing Difficulty
 
 
 Installation:
 
-Clone this repository or download the files.
-Install Python 3.x (preferably 3.6 or higher).
-Install the required dependencies 
+1.Clone this repository or download the files.
+
+2.Install Python 3.x (preferably 3.6 or higher).
+
+3.Install the required dependencies 
 
 
 Controls:
 
-Press (W, A, S, D) to move the drone around the screen.
-Press Space bar for shooting
-Press P for pause and resume
-Press R for restart the game
+1.Press (W, A, S, D) to move the drone around the screen.
+
+2.Press Space bar for shooting
+
+3.Press P for pause and resume
+
+4.Press R for restart the game
 
 
 Credits:
